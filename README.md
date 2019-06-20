@@ -1,4 +1,7 @@
+[![codecov](https://codecov.io/gh/moemyself3/simplemath/branch/master/graph/badge.svg)](https://codecov.io/gh/moemyself3/simplemath)
+
 [![Build Status](https://travis-ci.org/moemyself3/simplemath.svg?branch=master)](https://travis-ci.org/moemyself3/simplemath)
+
 
 # Simple Math
 
