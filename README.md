@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/moemyself3/simplemath.svg?branch=master)](https://travis-ci.org/moemyself3/simplemath)
+
 # Simple Math
 
 Simple Math simply lets you simply add two numbers simply.
