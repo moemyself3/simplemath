@@ -6,4 +6,5 @@ setup(name='simplemath',
       author='Martin Beroiz',
       author_email='martinberoiz@gmail.com',
       py_modules=['simplemath', ],
+      test_suite='tests'
      )
