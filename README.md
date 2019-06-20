@@ -13,6 +13,7 @@ To install use pip from the directory containing setup.py
 ### Usage
 
 To use import the module
+
     >>> import simplemath as sm
     >>> sm.add(2,2)
     4
